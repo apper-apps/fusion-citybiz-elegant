@@ -1,8 +1,10 @@
 @import 'react-toastify/dist/ReactToastify.css';
+@import 'swiper/css';
+@import 'swiper/css/pagination';
+@import 'swiper/css/autoplay';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 @layer base {
   html {
     font-family: 'Inter', sans-serif;
