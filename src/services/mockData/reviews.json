@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "businessId": 1,
+    "userId": "user-1",
+    "userName": "Sarah Cohen",
+    "rating": 5,
+    "text": "Absolutely amazing experience! The seafood was incredibly fresh and the view was breathtaking. The staff was attentive and professional. Highly recommend for special occasions.",
+    "date": "2024-01-15T18:30:00Z",
+    "helpful": 12
+  },
+  {
+    "Id": 2,
+    "businessId": 1,
+    "userId": "user-2",
+    "userName": "Michael Ben David",
+    "rating": 4,
+    "text": "Great food and atmosphere. The fish was cooked to perfection and the service was good. Only downside was the wait time, but it was worth it.",
+    "date": "2024-01-10T20:15:00Z",
+    "helpful": 8
+  },
+  {
+    "Id": 3,
+    "businessId": 2,
+    "userId": "user-3",
+    "userName": "Rachel Levi",
+    "rating": 5,
+    "text": "Outstanding medical care! The doctors are knowledgeable and caring. The facilities are modern and clean. I felt very comfortable throughout my treatment.",
+    "date": "2024-01-12T14:45:00Z",
+    "helpful": 15
+  },
+  {
+    "Id": 4,
+    "businessId": 3,
+    "userId": "user-4",
+    "userName": "David Goldstein",
+    "rating": 4,
+    "text": "Love the variety and freshness of products. The market has a great atmosphere and the prices are reasonable. Perfect for weekend shopping.",
+    "date": "2024-01-08T11:20:00Z",
+    "helpful": 6
+  },
+  {
+    "Id": 5,
+    "businessId": 4,
+    "userId": "user-5",
+    "userName": "Anna Rosenberg",
+    "rating": 5,
+    "text": "Excellent IT services! They solved our software issues quickly and professionally. The team is knowledgeable and responsive. Highly recommended for businesses.",
+    "date": "2024-01-14T16:00:00Z",
+    "helpful": 9
+  },
+  {
+    "Id": 6,
+    "businessId": 5,
+    "userId": "user-6",
+    "userName": "Lisa Katz",
+    "rating": 5,
+    "text": "Pure luxury! The spa treatments were incredible and the staff was so professional. I left feeling completely relaxed and rejuvenated. Will definitely be back.",
+    "date": "2024-01-11T15:30:00Z",
+    "helpful": 11
+  },
+  {
+    "Id": 7,
+    "businessId": 6,
+    "userId": "user-7",
+    "userName": "Robert Miller",
+    "rating": 4,
+    "text": "Reliable and honest service. They fixed my car issues at a fair price and explained everything clearly. Good customer service and timely work.",
+    "date": "2024-01-09T13:45:00Z",
+    "helpful": 7
+  },
+  {
+    "Id": 8,
+    "businessId": 7,
+    "userId": "user-8",
+    "userName": "Miriam Shahar",
+    "rating": 5,
+    "text": "Best hummus in Beer Sheva! Authentic flavors and generous portions. The falafel is crispy and delicious. A must-visit for Middle Eastern food lovers.",
+    "date": "2024-01-13T12:30:00Z",
+    "helpful": 10
+  },
+  {
+    "Id": 9,
+    "businessId": 8,
+    "userId": "user-9",
+    "userName": "Tom Abraham",
+    "rating": 4,
+    "text": "Good variety of stores and restaurants. The mall is well-maintained and has good parking. Family-friendly with entertainment options for kids.",
+    "date": "2024-01-07T17:00:00Z",
+    "helpful": 5
+  },
+  {
+    "Id": 10,
+    "businessId": 9,
+    "userId": "user-10",
+    "userName": "Elena Novak",
+    "rating": 5,
+    "text": "Transformed our backyard into a paradise! The design team was creative and professional. Attention to detail was exceptional. Highly recommend their services.",
+    "date": "2024-01-16T10:15:00Z",
+    "helpful": 13
+  },
+  {
+    "Id": 11,
+    "businessId": 10,
+    "userId": "user-11",
+    "userName": "Alex Johnson",
+    "rating": 4,
+    "text": "Great gym with modern equipment. The trainers are knowledgeable and helpful. Clean facilities and good variety of classes. Worth the membership fee.",
+    "date": "2024-01-06T19:20:00Z",
+    "helpful": 8
+  },
+  {
+    "Id": 12,
+    "businessId": 11,
+    "userId": "user-12",
+    "userName": "Maya Stern",
+    "rating": 5,
+    "text": "My daughter loves going here! The teachers are caring and the programs are engaging. Great educational environment with modern facilities.",
+    "date": "2024-01-14T08:45:00Z",
+    "helpful": 14
+  },
+  {
+    "Id": 13,
+    "businessId": 12,
+    "userId": "user-13",
+    "userName": "James Wilson",
+    "rating": 4,
+    "text": "Reliable home repair service. They fixed our plumbing issues quickly and cleanly. Fair prices and good workmanship. Will use them again.",
+    "date": "2024-01-05T14:30:00Z",
+    "helpful": 6
+  },
+  {
+    "Id": 14,
+    "businessId": 13,
+    "userId": "user-14",
+    "userName": "Sofia Dimitrov",
+    "rating": 5,
+    "text": "Authentic Greek cuisine! The atmosphere is cozy and the food is delicious. Felt like dining in Greece. The staff is friendly and welcoming.",
+    "date": "2024-01-12T20:00:00Z",
+    "helpful": 12
+  },
+  {
+    "Id": 15,
+    "businessId": 14,
+    "userId": "user-15",
+    "userName": "Dan Israelsson",
+    "rating": 5,
+    "text": "Excellent healthcare service! The doctors are professional and caring. Modern facilities and efficient service. Highly recommend for medical needs.",
+    "date": "2024-01-11T11:15:00Z",
+    "helpful": 16
+  },
+  {
+    "Id": 16,
+    "businessId": 15,
+    "userId": "user-16",
+    "userName": "Nina Petrov",
+    "rating": 4,
+    "text": "Great fashion selection! Trendy styles and good quality. The staff is helpful with styling advice. Prices are reasonable for the quality.",
+    "date": "2024-01-10T16:45:00Z",
+    "helpful": 7
+  },
+  {
+    "Id": 17,
+    "businessId": 16,
+    "userId": "user-17",
+    "userName": "Carlos Martinez",
+    "rating": 4,
+    "text": "Good movie experience! Comfortable seats and great sound quality. The popcorn was fresh and the staff was friendly. Clean facilities.",
+    "date": "2024-01-09T21:30:00Z",
+    "helpful": 9
+  },
+  {
+    "Id": 18,
+    "businessId": 17,
+    "userId": "user-18",
+    "userName": "Yuki Tanaka",
+    "rating": 5,
+    "text": "Amazing wellness center! The yoga classes are excellent and the meditation sessions are so peaceful. The massage therapy is top-notch.",
+    "date": "2024-01-15T09:00:00Z",
+    "helpful": 13
+  },
+  {
+    "Id": 19,
+    "businessId": 18,
+    "userId": "user-19",
+    "userName": "Ahmed Hassan",
+    "rating": 4,
+    "text": "Fast and reliable phone repair! They fixed my cracked screen quickly and the price was fair. Good customer service and quality work.",
+    "date": "2024-01-08T15:20:00Z",
+    "helpful": 5
+  },
+  {
+    "Id": 20,
+    "businessId": 19,
+    "userId": "user-20",
+    "userName": "Maria Gonzalez",
+    "rating": 5,
+    "text": "Outstanding car detailing service! My car looks brand new. Attention to detail is incredible and the staff is professional. Worth every penny.",
+    "date": "2024-01-13T14:00:00Z",
+    "helpful": 11
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "name": "Restaurants",
+    "icon": "UtensilsCrossed",
+    "businessCount": 3542
+  },
+  {
+    "Id": 2,
+    "name": "Healthcare",
+    "icon": "Heart",
+    "businessCount": 1247
+  },
+  {
+    "Id": 3,
+    "name": "Shopping",
+    "icon": "ShoppingBag",
+    "businessCount": 2156
+  },
+  {
+    "Id": 4,
+    "name": "Services",
+    "icon": "Settings",
+    "businessCount": 1890
+  },
+  {
+    "Id": 5,
+    "name": "Entertainment",
+    "icon": "Play",
+    "businessCount": 987
+  },
+  {
+    "Id": 6,
+    "name": "Beauty & Wellness",
+    "icon": "Sparkles",
+    "businessCount": 1345
+  },
+  {
+    "Id": 7,
+    "name": "Education",
+    "icon": "GraduationCap",
+    "businessCount": 567
+  },
+  {
+    "Id": 8,
+    "name": "Automotive",
+    "icon": "Car",
+    "businessCount": 834
+  },
+  {
+    "Id": 9,
+    "name": "Home & Garden",
+    "icon": "Home",
+    "businessCount": 723
+  },
+  {
+    "Id": 10,
+    "name": "Technology",
+    "icon": "Laptop",
+    "businessCount": 456
+  }
+]
